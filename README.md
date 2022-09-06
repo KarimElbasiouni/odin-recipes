@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project on TheOdinProject. I will be creating a basic recipes website. After completing this project, I will have solidified the knowledge that I gained throughout the HTML section of the course.
